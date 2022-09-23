@@ -1,0 +1,21 @@
+Lista:
+
+Ordenadas: <ol>
+Não Ordenadas: <ul>
+De descrição: <dl> --> <dt>&<dd>
+
+Tabelas:
+
+Títulos: <th>
+Linhas: <tr>
+Colunas: <td>
+
+Estilização da Tabela:
+
+border
+size: width e height
+padding: preenchimento nas células da tabela
+spacing: para alterar o espaço entre as células da tabela
+colspan: se estender por várias colunas
+rowspan: se estender por várias linhas
+colgroup: é usado para estilizar colunas específicas de uma tabela

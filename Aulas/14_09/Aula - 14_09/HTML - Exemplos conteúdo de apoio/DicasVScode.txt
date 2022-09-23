@@ -1,0 +1,31 @@
+Extensions vscodeIcons
+
+Configuração Ctrl+shift+P
+
+-----------------------
+https://youtu.be/8jLfTDn3_TM
+emmet abreviation
+
+html <tab> html5
+
+div>p>a <tab>
+
+div>p+h1 <tab>
+
+div{conteudo}
+
+nav.menu>ul>li <tab>
+
+nav.menu>ul>li*5 <tab>
+
+nav.menu>ul>li*5>a:link <tab>
+
+nav.menu>ul>li#item*5>a:link <tab>
+nav.menu>ul>li#item$*5>a:link <tab>
+
+section*5#secao$>article.conteudo>h1+p{Texto}|c
+
+table>th>tr*3>td*7
+
+
+

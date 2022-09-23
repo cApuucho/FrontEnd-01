@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tables</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th {
+      padding: 15px;
+    }
+
+    td {
+      padding: 20px;
+    }
+
+    table,
+    th,
+    td {
+      border: 1px solid black;
+    }
+  </style>
+
+</head>
+
+<body>
+  <header style="text-align:center">
+    <h2>Plano de Estudo</h2>
+    <img src="./images/images/image-bonita.png" alt="bonita" width="300px">
+  </header>
+
+  <table style="text-align: center;">
+    <thead>
+      <tr>
+        <th><img src="./images/images/horario.png" alt="rel" width="50px"></th>
+        <th>SEGUNDA</th>
+        <th>TERÇA</th>
+        <th>QUARTA</th>
+        <th>QUINTA</th>
+        <th>SEXTA</th>
+        <th>SÁBADO</th>
+        <th>DOMINGO</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <th>08:00 - 12:00</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Descansar</td>
+      </tr>
+
+      <tr>
+        <th>12:00 - 13:00</th>
+        <td colspan="7">ALMOÇAR</td>
+      </tr>
+
+      <tr>
+        <th>13:00 - 15:00</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td rowspan="3">Descansar</td>
+      </tr>
+
+      <tr>
+        <th>15:00 - 18:00</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+      </tr>
+
+      <tr>
+        <th>18:00 - 22:30</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+
+      </tr>
+
+      <tr>
+        <th>22:30 - 08:00</th>
+        <td colspan="7">DORMIR</td>
+      </tr>
+
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="8">
+          <img src="./images/images/growdev.png" alt="growdev">
+        </td>
+      </tr>
+    </tfoot>
+
+  </table>
+  <footer style="text-align:center;">Atividade prática - Tabela Cronograma de Estudos - &copy;Growdev 2022</footer>
+  </header>
+</body>
+
+</html>

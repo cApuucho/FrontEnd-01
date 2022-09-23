@@ -1,0 +1,19 @@
+Vimos os concenitos básicos do front-end
+
+Que o front-end esta associado ao lado do cliente
+
+O front-end de um site é basicamente formado por 3 tecnologias principais que são HTML, CSS, JavaScript
+
+O HTML é responsável pela estrutura base da página e pelo conteúdo, o HTML é composto por elementos
+de texto, chamados de tags.
+
+O CSS é responsável pelo design, por controlar o
+layout e responsividade da página.
+
+O DOM é a interface que representa a forma com que
+os documentos HTML são lidos pelo navegador.
+
+O JavaScript (ou simplesmente JS) basicamente
+é o que dá interatividade a páginas web.
+
+DevTools que é o Inspecionar 
