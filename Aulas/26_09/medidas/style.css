@@ -1,0 +1,34 @@
+/*STYLE.CSS - CSS EXTERNO*/
+/*Relativos a porcentagem da tela*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.caixa1 {
+  background-color: orange;
+  height: 100vh;
+  width: 100vw;
+}
+
+.caixa2 {
+  background: blue;
+  height: 10vh;
+  width: 100vw;
+}
+
+.caixa3 {
+  background: red;
+  height: 50vh;
+  width: 30vw;
+  float: left;
+}
+
+.caixa4 {
+  background: gray;
+  height: 50vh;
+  width: 70vw;
+  float: left;
+}
