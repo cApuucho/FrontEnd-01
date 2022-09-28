@@ -1,0 +1,22 @@
+demos inicio ao css, vimos os exemplos de css que são:
+css inline, 
+css interno,
+css externo.
+
+backgrounds:
+background-image
+background-repeat
+background-attachment
+background-size
+background-position
+
+medidas:
+pixel,
+porcentagem que depende das dimensões do pai,
+EM e REM: 
+"em" é relativo ao font-size do pai ou da body
+"rem" relativo ao elemento root
+VW e VH: são relativos a porcentagem da tela
+
+margin-padding:
+
