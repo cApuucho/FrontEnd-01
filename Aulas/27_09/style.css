@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 100vw;
+  border-collapse: collapse;
+}
+
+thead tr td {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 76px;
+  height: 44px;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+
+#name {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 30px;
+}
+
+#descricao {
+  text-align: center;
+}
+
+#subDescricao {
+  text-align: center;
+  font-size: 21px;
+}
+
+#links {
+  text-align: center;
+}
+#links a:last-child {
+  margin-left: 20px;
+}
+
+#imageIphone img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
