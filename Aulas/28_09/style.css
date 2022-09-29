@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  left: 50px;
+}
+/* SE BASEIA NO PAI (RELATIVE), CASO NÃO
+TENHA, SERÁ ABSOLUTO A PÁGINA */
+.box {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+  left: 100px;
+  top: 100px;
+}
