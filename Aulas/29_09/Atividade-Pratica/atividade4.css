@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(187, 181, 181);
+  overflow: hidden;
+}
+
+.box1 {
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: relative;
+}
+
+.box2 {
+  top: 0;
+  left: 10.5%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box3 {
+  top: 0;
+  left: 21.01%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box4 {
+  top: 21.1%;
+  left: 0%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box5 {
+  top: 21.1%;
+  left: 10.5%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box6 {
+  top: 42.3%;
+  left: 0%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box7 {
+  bottom: 0;
+  right: 0;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box8 {
+  bottom: 0;
+  right: 10.5%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box9 {
+  bottom: 0;
+  right: 21.01%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box10 {
+  bottom: 21%;
+  right: 0%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box11 {
+  bottom: 21%;
+  right: 10.5%;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
+
+.box12 {
+  bottom: 42%;
+  right: 0;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(39, 38, 38);
+  position: absolute;
+}
