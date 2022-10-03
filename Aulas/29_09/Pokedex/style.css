@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(204, 147, 42);
+  overflow: hidden;
+}
+
+h1 {
+  margin-top: 1%;
+  text-align: center;
+}
+h2 {
+  padding: 10px;
+  text-align: center;
+}
+
+.aside {
+  margin: 5%;
+  width: 20%;
+  height: 70vh;
+  background-color: gray;
+}
+
+aside div img {
+  top: 10%;
+  left: 20%;
+  position: relative;
+  width: 55%;
+  height: 30%;
+}
+
+p {
+  color: white;
+  left: 20%;
+  top: 20%;
+  position: relative;
+  font-size: 25px;
+}
+
+.main {
+  top: 18.4%;
+  right: 5%;
+  width: 55%;
+  height: 70%;
+  position: absolute;
+
+  background-color: rgb(214, 207, 207);
+}
+
+.squirtle {
+  top: 1%;
+  position: relative;
+  right: 32%;
+  float: right;
+  width: 30%;
+  height: 50%;
+}
+
+.agua {
+  padding: 9px;
+  left: 27%;
+  top: 80%;
+  position: absolute;
+  width: 50%;
+  height: 10%;
+  text-align: center;
+  background-color: rgb(20, 184, 184);
+}
+
+.eletric {
+  color: black;
+  padding: 9px;
+  left: 27%;
+  top: 80%;
+  position: absolute;
+  width: 50%;
+  height: 10%;
+  text-align: center;
+  background-color: rgb(226, 213, 30);
+}
+
+.squirtle1 {
+  color: white;
+  font-size: 30px;
+  top: 63%;
+  left: 9%;
+  position: absolute;
+  text-decoration: none;
+}
+
+.pikachu1 {
+  color: white;
+  font-size: 30px;
+  top: 70%;
+  left: 9%;
+  position: absolute;
+  text-decoration: none;
+}
+
+a {
+  color: blue;
+}
+span a {
+  color: yellow;
+}
+
+a:visited {
+  color: white;
+}
+span a:visited {
+  color: white;
+}
+
+a:hover {
+  color: blue;
+}
+span a:hover {
+  color: yellow;
+}
